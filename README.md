@@ -6,4 +6,4 @@ The basic version of the game would support only the single move of cards, where
 
 Tools and Technologies used: Java, IntelliJ
 
-This project is stored in Northeastern's private github repository. Please mail me at vemuri.sr@husky.neu.edu to accesses this project.
+This project is stored on Northeastern's private github repository. Please mail me at vemuri.sr@husky.neu.edu to accesses this project.
